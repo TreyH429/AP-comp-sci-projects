@@ -1,5 +1,5 @@
 #concession stand
-menu = {"pizza": 3.00, "Nachos": 4.50, "popcorn": 2.00, "soda": 1.50, "pretzle": 5.00, "slushy": 3.00, "water": 1.00}
+menu = {"pizza": 3.00, "nachos": 4.50, "popcorn": 2.00, "soda": 1.50, "pretzle": 5.00, "slushy": 3.00, "water": 1.00}
 cart = []
 totlal = 0
 
